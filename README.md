@@ -124,3 +124,6 @@ Upon satisfactory completion of this course, a student should be able to:
 | 18 | MVP |
 | 19 | Final Polish, Presentation Practice |
 | 20 | Live Project Presentations |
+
+###
+Practice for pull request
